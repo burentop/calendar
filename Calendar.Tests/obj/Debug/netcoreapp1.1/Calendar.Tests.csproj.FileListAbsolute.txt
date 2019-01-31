@@ -1,0 +1,17 @@
+/home/brent/Documents/Development/epicodus/csharp/Calendar.Solution/Calendar.Tests/obj/Debug/netcoreapp1.1/Calendar.Tests.csprojAssemblyReference.cache
+/home/brent/Documents/Development/epicodus/csharp/Calendar.Solution/Calendar.Tests/obj/Debug/netcoreapp1.1/Calendar.Tests.csproj.CoreCompileInputs.cache
+/home/brent/Documents/Development/epicodus/csharp/Calendar.Solution/Calendar.Tests/obj/Debug/netcoreapp1.1/Calendar.Tests.AssemblyInfoInputs.cache
+/home/brent/Documents/Development/epicodus/csharp/Calendar.Solution/Calendar.Tests/obj/Debug/netcoreapp1.1/Calendar.Tests.AssemblyInfo.cs
+/home/brent/Documents/Development/epicodus/csharp/Calendar.Solution/Calendar.Tests/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/home/brent/Documents/Development/epicodus/csharp/Calendar.Solution/Calendar.Tests/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/home/brent/Documents/Development/epicodus/csharp/Calendar.Solution/Calendar.Tests/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/home/brent/Documents/Development/epicodus/csharp/Calendar.Solution/Calendar.Tests/bin/Debug/netcoreapp1.1/Calendar.Tests.deps.json
+/home/brent/Documents/Development/epicodus/csharp/Calendar.Solution/Calendar.Tests/bin/Debug/netcoreapp1.1/Calendar.Tests.runtimeconfig.json
+/home/brent/Documents/Development/epicodus/csharp/Calendar.Solution/Calendar.Tests/bin/Debug/netcoreapp1.1/Calendar.Tests.runtimeconfig.dev.json
+/home/brent/Documents/Development/epicodus/csharp/Calendar.Solution/Calendar.Tests/bin/Debug/netcoreapp1.1/Calendar.Tests.dll
+/home/brent/Documents/Development/epicodus/csharp/Calendar.Solution/Calendar.Tests/bin/Debug/netcoreapp1.1/Calendar.Tests.pdb
+/home/brent/Documents/Development/epicodus/csharp/Calendar.Solution/Calendar.Tests/bin/Debug/netcoreapp1.1/Calendar.dll
+/home/brent/Documents/Development/epicodus/csharp/Calendar.Solution/Calendar.Tests/bin/Debug/netcoreapp1.1/Calendar.pdb
+/home/brent/Documents/Development/epicodus/csharp/Calendar.Solution/Calendar.Tests/obj/Debug/netcoreapp1.1/Calendar.Tests.csproj.CopyComplete
+/home/brent/Documents/Development/epicodus/csharp/Calendar.Solution/Calendar.Tests/obj/Debug/netcoreapp1.1/Calendar.Tests.dll
+/home/brent/Documents/Development/epicodus/csharp/Calendar.Solution/Calendar.Tests/obj/Debug/netcoreapp1.1/Calendar.Tests.pdb
